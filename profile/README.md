@@ -1,4 +1,4 @@
-## We are FMI, a government company in Forlì
+## We are FMI, a government company in Forlì, Italy
 
 <!--
 
@@ -12,4 +12,4 @@
 -->
 
 ### Who we are
-FMI S.r.l. is a limited liability company based in Forlì, Italy, dedicated to enhancing mobility, infrastructure management, and technological development within the Forlì area. Operating under the guidance of Livia Tellus Romagna Holding S.p.A., FMI collaborates closely with the Union of Municipalities of the Romagna Forlivese to deliver essential public services.
+FMI S.r.l. is a government company based in Forlì, Italy, dedicated to enhancing mobility, infrastructure management, and technological development within the Forlì area. Operating under the guidance of Livia Tellus Romagna Holding S.p.A., FMI collaborates closely with the Union of Municipalities of the Romagna Forlivese to deliver essential public services.
